@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Edu+SA+Beginner&display=swap');
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    background-color: black;
+}
+
+#externo {
+    margin-top: 135px;
+    margin-left: 200px;
+    width: 1440px;
+    height: 700px;
+    background-color: hsl(218, 44%, 22%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.interno {
+    width: 275px;
+    height: 400px;
+    background-color: white; 
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+    
+}
+
+img {
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.container {
+    background-color: white ;
+}
+
+.text {
+    background-color: white;
+}
+
+.cima {
+    margin-top: 12px;
+    color: black;
+    background-color: white ;
+    font-family: 'Outfit', sans-serif;
+    font-size: 17px;
+    text-align: center;
+    font-weight: 700;
+    
+}
+
+.baixo {
+    color: black;
+    background-color: white;
+    font-family: 'Outfit', sans-serif;
+    font-size: 12px;
+    margin-top: 10px;
+    text-align: center;
+    font-weight: 400;
+}
